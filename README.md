@@ -1,18 +1,18 @@
 ### Hi there 👋
 
 
-**SurajiEkanayaka/SurajiEkanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**SurajiEkanayaka/SurajiEkanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Management Information System(UGC) at NSBM Green University.
 - 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with open source projects.
 - 📫 How to reach me: surajiekanayaka4@gmail.com
+<!--- 💬 Ask me about ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
