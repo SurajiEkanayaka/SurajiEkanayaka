@@ -43,6 +43,6 @@
 <br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajiEkanayaka&layout=compact&langs_count=8&theme=light)
-![suraji's github stats](https://github-readme-stats.vercel.app/api?username=SurajiEkanayaka&layout=compact&langs_count=8&theme=light)
+
 
  <br>
