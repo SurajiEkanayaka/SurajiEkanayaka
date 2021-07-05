@@ -39,7 +39,7 @@
 
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  -->
 <!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SurajiEkanayaka&color=brightgreen" alt="SurajiEkanayaka" /> </p>
+
 
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaSooriyapperuma&layout=compact&langs_count=8&theme=light)
