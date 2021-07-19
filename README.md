@@ -7,7 +7,7 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on 
+<!-- 🔭 I’m currently working on -->
 - 🌱 I’m currently learning Management Information System(UGC) at NSBM Green University.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with open source projects.
