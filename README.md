@@ -33,7 +33,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) 
 
 <!--![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)  -->
 <!-- ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase) -->
