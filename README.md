@@ -42,7 +42,5 @@
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  -->
 <!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 
-<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajiEkanayaka&layout=compact&langs_count=8&theme=dark)
- <br>
+
 
