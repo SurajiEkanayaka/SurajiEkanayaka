@@ -1,5 +1,5 @@
 ### Hi there, I'm Suraji Ekanayaka 
-<img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+
 <hr>
 
 
